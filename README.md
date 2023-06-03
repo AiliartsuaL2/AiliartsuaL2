@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi I'm JUHO 👋 </h1>
 
-<h3 align="center">I am Lee Joo-ho, a back-end developer who always worries from 🇰🇷</h3>
+<h3 align="center">Hello, I am Lee Joo-ho, a developer from 🇰🇷 who is always worried.</h3>
 <h4 align="center"> 📫 Reach me: ailiartsual2@gmail.com<h4>
 
 <br> 
